@@ -8,4 +8,4 @@
 
 ### 数据大屏效果图
 
-![index](./images/index.png)
+![index](../images/index.png)
