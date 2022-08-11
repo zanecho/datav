@@ -4,8 +4,8 @@
 
 ### 登录效果图
 
-![login](images/login.png)
+![login](./images/login.png)
 
 ### 数据大屏效果图
 
-![index](images/index.png)
+![index](./images/index.png)
